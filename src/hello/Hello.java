@@ -9,9 +9,10 @@ public class Hello {
 		}
 		int a=8,b=0,c=0;
 		System.out.println("a="+8 +" b="+b);
+		System.out.println("Hello github");
 		c=a/b;
 		System.out.println(c);
-		System.out.println("Hello github");
+		
 	}
 
 }

@@ -7,9 +7,9 @@ public class Hello {
 		{
 			System.out.println("Hello World..."+i);
 		}
-		int a=8,b=0;
+		int a=8,b=0,c=0;
 		System.out.println("a="+8 +" b="+b);
-		int c=a/b;
+		c=a/b;
 		System.out.println(c);
 	}
 

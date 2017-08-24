@@ -11,6 +11,7 @@ public class Hello {
 		System.out.println("a="+8 +" b="+b);
 		c=a/b;
 		System.out.println(c);
+		System.out.println("Hello github");
 	}
 
 }
